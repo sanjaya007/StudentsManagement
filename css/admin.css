@@ -1,0 +1,52 @@
+*{
+    background-color: ivory;
+}
+.admintitle{
+    background-color: bisque;
+    color: black;
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.dashboard{
+    background-color: lightblue;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.dashboard table{
+    width: 50%;
+    padding: 10px;
+    font-family: cursive;
+    text-align: center;
+    font-size: 30px;
+}
+
+.dashboard table tr{
+    height: 150px;
+}
+
+h3{
+    font-family: cursive;
+    margin-right: 30px;
+}
+
+h3 a{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+h3 a:hover{
+    background-color: #555;
+}
+
+.dashboard table a {
+    text-decoration: none;
+    color: black;
+    background-color: cornsilk;
+    padding: 20px;
+}

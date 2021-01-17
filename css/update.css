@@ -1,0 +1,39 @@
+*{
+    font-family: cursive;
+}
+.search table{
+    text-align: center;
+    margin-top: 50px;
+    width: 30%;
+    height: 200px;
+    font-size: 20px;
+}
+
+.search table input{
+    background-color: wheat;
+    font-size: 20px;
+}
+
+.search table input[type=submit]:hover{
+    background-color: orange;
+    cursor: pointer;
+}
+
+.result table{
+    text-align: center;
+    margin-top: 40px;
+    width: 80%;
+    padding: 10px;
+}
+
+.result table th{
+    font-size: 25px;
+    padding: 15px;
+    background-color: lightblue;
+}
+
+.result table td{
+    font-size: 20px;
+    padding: 10px;
+    background-color: lightyellow;
+}

@@ -1,0 +1,48 @@
+*{
+    background-color: ivory;
+    font-family: cursive;
+}
+
+h3 a{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+h3 a:hover{
+    background-color: #555;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    background-color:wheat;
+    padding: 20px;
+}
+
+form{
+    background-color: lightblue;
+    width: 100%;   
+}
+
+form table{
+    width: 30%;
+    padding: 20px;
+    font-size: 25px;
+}
+
+form table tr{
+    height: 70px;
+}
+
+form input{
+    background-color: wheat;
+    font-size: 20px;
+}
+
+input[type=submit]:hover
+{
+    background-color: orange;
+    cursor: pointer;
+}

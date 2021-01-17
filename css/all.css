@@ -1,0 +1,23 @@
+*{
+    font-family: cursive;
+}
+
+
+.all table{
+    text-align: center;
+    margin-top: 40px;
+    width: 80%;
+    padding: 10px;
+}
+
+.all table th{
+    font-size: 25px;
+    padding: 15px;
+    background-color: lightblue;
+}
+
+.all table td{
+    font-size: 20px;
+    padding: 10px;
+    background-color: lightyellow;
+}

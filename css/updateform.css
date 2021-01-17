@@ -1,0 +1,36 @@
+.update form{
+    background-color: lightblue;
+    width: 100%;
+    margin-top: 70px;
+    
+}
+.update table tr{
+    height: 100px;
+}
+
+.update table{
+    margin-top: 30px;
+    width: 50%;
+    padding: 10px;
+    font-family: cursive;
+    text-align: center;
+    font-size: 30px;
+}
+
+.update input {
+    height: 30px;
+    background-color: wheat;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.update form input{
+    background-color: wheat;
+    font-size: 20px;
+}
+
+.update input[type=submit]:hover
+{
+    background-color: orange;
+    cursor: pointer;
+}
